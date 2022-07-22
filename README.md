@@ -7,3 +7,4 @@ This is the first project for practicing my html. It will be a basic recipe webs
 - use git add + git commit throughout the project
 - add good messages to commits
 - use git push origin main
+- add external css
